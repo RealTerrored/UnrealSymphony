@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/BaseCard.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Levels/MainLevel.umap",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Database.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/DatabaseStructure.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Database/DatabaseStructure.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Database/Database.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/NewBlueprint.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/BaseCard_Sprite.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/Cost.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/Cost_Sprite.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/Gem.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/Gem_Sprite.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/School.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/School_Sprite.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/Art/alpha.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/Art/alpha_Sprite.uasset"
+			]
+		}
+	]
+}
