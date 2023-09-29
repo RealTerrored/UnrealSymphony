@@ -7,11 +7,8 @@
 			"files": [
 				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/BaseCard.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Levels/MainLevel.umap",
-				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Database.uasset",
-				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/DatabaseStructure.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Database/DatabaseStructure.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Database/Database.uasset",
-				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/NewBlueprint.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/BaseCard_Sprite.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/Cost.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/Cost_Sprite.uasset",
@@ -20,7 +17,21 @@
 				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/School.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/School_Sprite.uasset",
 				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/Art/alpha.uasset",
-				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/Art/alpha_Sprite.uasset"
+				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/Art/alpha_Sprite.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/MainInterface.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Sprites/Art/alpha_Sprite1.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Assets/Art/IMG_20230907_142331.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Fonts/Titillium-Regular.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Fonts/Titillium-Bold.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Fonts/Titillium-Light.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Fonts/Titillium-Bold_Font.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Fonts/Titillium-Light_Font.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Fonts/Titillium-Regular_Font.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/CardDrag.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Card.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/Database.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/DatabaseStructure.uasset",
+				"F:/UnrealSymphony/UnrealSymphony/Content/Blueprints/NewBlueprint.uasset"
 			]
 		}
 	]
